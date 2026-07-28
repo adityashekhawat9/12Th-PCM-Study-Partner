@@ -65,7 +65,7 @@ cd ..
 
 > **IMPORTANT:** Because the NCERT textbooks and the resulting vector databases are extremely large files, they are intentionally excluded from this repository via `.gitignore`. You must generate the local database yourself before running the API!
 
-1. Download the 6 required Class 12 NCERT books (Mathematics Part I & II, Physics Part I & II, Chemistry Part I & II) from the official website.
+1. Download the 6 required Class 12 NCERT books (Mathematics Part I & II, Physics Part I & II, Chemistry Part I & II) from the official website (https://ncert.nic.in/textbook.php).
 2. Place the PDFs (or folders of chapter PDFs) directly into the `data/raw/` directory. Ensure the files or folders are named exactly as follows (matching `data/manifest.json`):
    - `mathematics_part_1` (or `.pdf`)
    - `mathematics_part_2` (or `.pdf`)
