@@ -1,0 +1,10 @@
+fastapi
+httpx
+groq
+pydantic
+python-dotenv
+uvicorn
+faiss-cpu
+PyMuPDF
+tiktoken
+fastembed

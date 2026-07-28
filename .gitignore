@@ -1,0 +1,35 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data and Indexes (Do not commit large PDFs or vector databases)
+data/raw/
+data/index.faiss
+data/metadata.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
